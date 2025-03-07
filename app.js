@@ -75,6 +75,7 @@ const playMusic = (track, pause = false) => {
 };
 
 
+console.log('Hello');
 
 
 
